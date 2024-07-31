@@ -11,3 +11,8 @@ django-admin startproject Django_Backend .
 python manage.py startapp useraccount
 
 python manage.py startapp property
+
+
+my to do list -- create "CustomUserManager" and "User" models
+
+my to do list -- settings.py ---- add "AUTH_USER_MODEL" and other things
